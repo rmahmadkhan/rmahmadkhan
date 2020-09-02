@@ -9,7 +9,6 @@ Connect with me on:
 , and [StackOverflow](https://stackoverflow.com/users/10482516/ahmad-khan)
 
 
-### I am
 <ul>
 <li>
      <b>🔭 Currently working on:</b>  <b><i>Flutter</i></b>
