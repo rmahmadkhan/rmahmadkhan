@@ -37,11 +37,11 @@ Connect with me on:
  
   
 </ul>
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=rmahmadkhan&show_icons=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmahmadkhan&layout=compact" />
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
-<!--
+
 <img align='right' src="https://komarev.com/ghpvc/?username=rmahmadkhan" alt="rmahmadkhan" />
 
 
