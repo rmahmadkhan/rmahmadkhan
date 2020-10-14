@@ -9,8 +9,8 @@
 ### A Student, Developer & Photographer
 - 🙋‍♂️ A [Developer Student Clubs][dsc] Lead at my campus [(PUCIT Lahore)][dscpucit] by Google Developers
 - 💻 Currently learning Flutter
-- 🤔 I'm exploring AI and Data Science
-- ⚡ I love food and memes.
+- 🤔 Exploring AI and Data Science
+- ⚡ Love food and memes.
 - 😄 In my free time, i usually watch Netflix and chill
 
 
