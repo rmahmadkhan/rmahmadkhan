@@ -8,7 +8,7 @@
 
 ### A Student, Developer & Photographer
 - 🙋‍♂️ A [Developer Student Clubs][dsc] Lead at my campus [(PUCIT Lahore)][dscpucit] by Google Developers
-- 💻 Currently learning Flutter
+- 💻 Flutter & .NET Developer
 - 🤔 Exploring AI and Data Science
 - ⚡ Love food and memes.
 - 😄 Second most favorite hobby is traveling, first is napping xD
