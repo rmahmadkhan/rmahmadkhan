@@ -1,9 +1,27 @@
 ## Hi there, I'm  Ahmad 👋
-[<img align="left" alt="rmahmadkhan | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
-[<img align="left" alt="rmahmadkhan | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
-[<img align="left" alt="rmahmadkhan | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="rmahmadkhan | Instagram" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
 
+<div align="center">
+<p align="center">Let's connect!</p>
+<a href="https://www.twitter.com/rmahmadkhan/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/rmahmadkhan/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/rmahmadkhan/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/rmahmadkhan/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/10482516/ahmad-khan?tab=profile">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+</div>
 <br>
 
 ### A Student, Developer & Photographer
