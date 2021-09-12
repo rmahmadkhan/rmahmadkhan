@@ -25,17 +25,18 @@
 <br>
 
 ### A Student, Developer & Photographer
-- 🙋‍♂️ A [Developer Student Clubs][dsc] Lead at my campus [(PUCIT Lahore)][dscpucit] by Google Developers
-- 💻 Working in Flutter & .NET
-- 🤔 Exploring AI and Data Science
-- ⚡ Love food and memes.
-- 😄 Second most favorite hobby is traveling, first is napping xD
+- 🙋‍♂️ A computer science student at [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
+- 💻 Building mobile apps in Flutter with 💙
+- 🤔 Exploring Data Science
+- ⚡ Was a [GDSC][dsc] Lead (2020-21) at [my campus][dscpucit] by Google Developers
+- 😄 I love food & memes. My second most favorite hobby is traveling, first is napping xD
 
 
 ### Languages & Tools
 
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -61,3 +62,4 @@ An avid learner from <b>Pakistan<b> 💚
 [facebook]: https://www.facebook.com/rmahmadkhan
 [dscpucit]: https://dsc.community.dev/punjab-university-college-of-information-technology/
 [dsc]: https://developers.google.com/community/dsc
+[pucit]: https://pucit.edu.pk/
