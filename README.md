@@ -2,19 +2,19 @@
 
 <div align="center">
 <p align="center">Let's connect!</p>
-<a href="https://www.twitter.com/rmahmadkhan/">
+<a href="https://www.twitter.com/ahmadkhandev/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/rmahmadkhan/">
+<a href="https://www.instagram.com/ahmadkhandev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/rmahmadkhan/">
+<a href="https://www.linkedin.com/in/ahmadkhandev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/rmahmadkhan/">
+<a href="https://www.facebook.com/ahmadkhandev/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
@@ -56,10 +56,10 @@
 An avid learner from <b>Pakistan<b> 💚
 
 
-[twitter]: https://www.twitter.com/rmahmadkhan/
-[linkedin]: https://www.linkedin.com/in/rmahmadkhan/
-[instagram]: https://www.instagram.com/rmahmadkhan/
-[facebook]: https://www.facebook.com/rmahmadkhan
+[twitter]: https://www.twitter.com/ahmadkhandev/
+[linkedin]: https://www.linkedin.com/in/ahmadkhandev/
+[instagram]: https://www.instagram.com/ahmadkhandev/
+[facebook]: https://www.facebook.com/ahmadkhandev
 [dscpucit]: https://dsc.community.dev/punjab-university-college-of-information-technology/
 [dsc]: https://developers.google.com/community/dsc
 [pucit]: https://pucit.edu.pk/
