@@ -24,12 +24,11 @@
 </div>
 <br>
 
-### A Student, Developer & Photographer
-- 🙋‍♂️ A computer science student at [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
-- 💻 Building mobile apps in Flutter with 💙
-- 🤔 Exploring Data Science
-- ⚡ Was a [GDSC][dsc] Lead (2020-21) at [my campus][dscpucit] by Google Developers
-- 😄 I love food & memes. My second most favorite hobby is traveling, first is napping xD
+### A Developer, Community Builder & Photographer
+- 🙋‍♂️ Studying Computer science at [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
+- 🚀 Building communities with [Google Developers][googledevs] | Core Team @[GDGLivePakistan][gdglivepk] | Former GDSC Lead @[GDSC PUCIT][gdscpucit]
+- 💻 Creating beautiful apps in [Flutter][flutter] with 💙
+- 😄 FUN FACT: I love food & memes. My second most favorite hobby is traveling, first is napping xD
 
 
 ### Languages & Tools
@@ -44,7 +43,7 @@
 <br>
 
 <details>
-<summary>📝 My GitHub Stats</summary>
+<summary>📝 My GitHub Open-Source Stats</summary>
 <br>
 
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=rmahmadkhan&theme=gotham)](https://github.com/rmahmadkhan/github-readme-stats)
@@ -60,6 +59,8 @@ An avid learner from <b>Pakistan<b> 💚
 [linkedin]: https://www.linkedin.com/in/rmahmadkhan/
 [instagram]: https://www.instagram.com/rmahmadkhan/
 [facebook]: https://www.facebook.com/ahmadkhandev
-[dscpucit]: https://dsc.community.dev/punjab-university-college-of-information-technology/
-[dsc]: https://developers.google.com/community/dsc
+[gdscpucit]: https://dsc.community.dev/punjab-university-college-of-information-technology/
+[gdglivepk]: http://gdg.community.dev/gdg-live-pakistan/
+[googledevs]: https://developers.google.com/community
 [pucit]: https://pucit.edu.pk/
+[flutter]: https://flutter.dev
