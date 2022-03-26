@@ -58,7 +58,7 @@ An avid learner from <b>Pakistan<b> 💚
 [twitter]: https://www.twitter.com/rmahmadkhan/
 [linkedin]: https://www.linkedin.com/in/rmahmadkhan/
 [instagram]: https://www.instagram.com/rmahmadkhan/
-[facebook]: https://www.facebook.com/ahmadkhandev
+[facebook]: https://www.facebook.com/rmahmadkhan
 [gdscpucit]: https://dsc.community.dev/punjab-university-college-of-information-technology/
 [gdglivepk]: http://gdg.community.dev/gdg-live-pakistan/
 [googledevs]: https://developers.google.com/community
