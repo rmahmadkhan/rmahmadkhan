@@ -40,10 +40,10 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<br>
+
 
 ### 📝 My GitHub Stats</summary>
-<br>
+
 
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=rmahmadkhan&theme=gotham)](https://github.com/rmahmadkhan/github-readme-stats) &nbsp;&nbsp;&nbsp;<img src = "https://github-readme-streak-stats.herokuapp.com?user=rmahmadkhan&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 500>
 
