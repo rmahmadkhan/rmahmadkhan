@@ -45,7 +45,9 @@
 ### 📝 My GitHub Stats</summary>
 
 
-[![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=rmahmadkhan&theme=gotham)](https://github.com/rmahmadkhan/github-readme-stats) &nbsp;&nbsp;<img src = "https://github-readme-streak-stats.herokuapp.com?user=rmahmadkhan&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 400>
+[![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=rmahmadkhan&theme=gotham)](https://github.com/rmahmadkhan/github-readme-stats)
+<br><br>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=rmahmadkhan&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 500>
 
 <br>
 
