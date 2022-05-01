@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/ahmadkhandev/">
+<a href="https://www.facebook.com/rmahmadkhan/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
@@ -26,7 +26,7 @@
 
 ### A Developer, Community Builder & Photographer
 - 🙋‍♂️ Studying Computer science at [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
-- 🚀 Building communities with [Google Developers][googledevs] | Core Team @[GDGLivePakistan][gdglivepk] | Former GDSC Lead @[GDSC PUCIT][gdscpucit]
+- 🚀 Building communities with [Google Developers][googledevs] | Core Team @[GDGLivePakistan][gdglivepk] | GDSC Lead'20 @[GDSC PUCIT][gdscpucit]
 - 💻 Creating beautiful apps in [Flutter][flutter] with 💙
 - 😄 FUN FACT: I love food & memes. My second most favorite hobby is traveling, first is napping xD
 
@@ -42,14 +42,11 @@
 
 <br>
 
-<details>
-<summary>📝 My GitHub Open-Source Stats</summary>
+### 📝 My GitHub Stats</summary>
 <br>
 
-[![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=rmahmadkhan&theme=gotham)](https://github.com/rmahmadkhan/github-readme-stats)
-![Ahmad's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rmahmadkhan&theme=gotham&hide_langs_below=1&layout=compact)
+[![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=rmahmadkhan&theme=gotham)](https://github.com/rmahmadkhan/github-readme-stats) &nbsp;&nbsp;&nbsp;<img src = "https://github-readme-streak-stats.herokuapp.com?user=rmahmadkhan&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 500>
 
-</details>
 <br>
 
 An avid learner from <b>Pakistan<b> 💚
