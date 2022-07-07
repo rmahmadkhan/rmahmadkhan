@@ -25,7 +25,7 @@
 <br>
 
 ### A Developer, Community Builder & Photographer
-- 🙋‍♂️ Studied Computer science at [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
+- 🙋‍♂️ Studied Computer Science (Class of '22) from [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
 - 🚀 Building communities with [Google Developers][googledevs] | Co-Manager @[GDGLivePakistan][gdglivepk] | GDSC Lead'20 @[GDSC PUCIT][gdscpucit] | Manager @[FlutterLahore][flutterlahore]
 - 💻 Creating beautiful apps in [Flutter][flutter] with 💙
 - 😄 FUN FACT: I love food & memes. My second most favorite hobby is traveling, first is napping xD
