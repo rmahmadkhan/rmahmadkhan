@@ -25,8 +25,8 @@
 <br>
 
 ### A Developer, Community Builder & Photographer
-- 🙋‍♂️ Studying Computer science at [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
-- 🚀 Building communities with [Google Developers][googledevs] | Core Team @[GDGLivePakistan][gdglivepk] | GDSC Lead'20 @[GDSC PUCIT][gdscpucit]
+- 🙋‍♂️ Studied Computer science at [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
+- 🚀 Building communities with [Google Developers][googledevs] | Co-Manager @[GDGLivePakistan][gdglivepk] | GDSC Lead'20 @[GDSC PUCIT][gdscpucit] | Manager @[FlutterLahore][flutterlahore]
 - 💻 Creating beautiful apps in [Flutter][flutter] with 💙
 - 😄 FUN FACT: I love food & memes. My second most favorite hobby is traveling, first is napping xD
 
@@ -63,3 +63,4 @@ An avid learner from <b>Pakistan<b> 💚
 [googledevs]: https://developers.google.com/community
 [pucit]: https://pucit.edu.pk/
 [flutter]: https://flutter.dev
+[fllutterlahore] https://linktr.ee/flutterlahore
