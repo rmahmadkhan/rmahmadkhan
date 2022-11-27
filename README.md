@@ -24,7 +24,7 @@
 </div>
 <br>
 
-### A Developer, Community Builder & Photographer
+### A Developer, Community Builder & Traveler
 - 🙋‍♂️ Studied Computer Science (Class of '22) from [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
 - 🚀 Building communities with [Google Developers][googledevs]
      
