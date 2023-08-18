@@ -20,14 +20,13 @@
 </div>
 <br>
 
-### A Developer, Community Builder & Traveler
-- 🚀 Building communities with [Google for Developers][googledevs]
-     
-     GDG Organizer @[GDGLivePakistan][gdglivepk] | Community Lead @[FlutterLahore][flutterlahore] | xGDSC Lead @[GDSC PUCIT][gdscpucit] 
-- 💻 Developing beautiful apps in [Flutter][flutter] with 💙
-- 🎓 Studied Computer Science from [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
-- 😎 FUN FACT: I love food & memes. My second most favorite hobby is traveling, first is napping xD
+### I code, travel & build communities ✨
 
+🧑🏻‍💻 Hello! My name is Ahmad. While I have a comprehensive technical background, my emphasis is on mobile app development. I have been working as a software engineer since 2020 and have developed a wide range of mobile apps for iOS and Android.
+
+🚀 Fast-forward to today, and I’ve had the privilege of working with multiple startups. To build products which have high user experience and performance has always been my top priority.
+
+🥑 Besides that, I'm a passionate community builder. For that, I have been attached to [Google for Developers][googledevs] since 2020 as a community organizer. Currently leading [GDGLivePakistan][gdglivepk], and [FlutterLahore][flutterlahore], previously [GDSC PUCIT][gdscpucit].
 
 ### Languages & Tools
 
