@@ -41,16 +41,6 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-
-
-
-### 📝 My GitHub Stats</summary>
-
-<!-- 
-[![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=rmahmadkhan&theme=gotham)](https://github.com/rmahmadkhan/github-readme-stats)
-<br><br> -->
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=rmahmadkhan&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 500>
-
 [twitter]: https://www.twitter.com/rmahmadkhan/
 [linkedin]: https://www.linkedin.com/in/rmahmadkhan/
 [instagram]: https://www.instagram.com/rmahmadkhan/
